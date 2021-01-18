@@ -1,4 +1,4 @@
-#Co2 Emission Calulator
+# Co2 Emission Calulator
 
 A command-line tool to calculate the Co2 equivalent emitted by a transportation method when travelled certain distance.
 Follow below intructions for installing dependencies, running unit-tests and executing the tool.
