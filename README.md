@@ -26,21 +26,29 @@ node index.js --distance 1800.5 --transportation-method large-petrol-car
 ```
 
 # Default Values
-Transportation methods in CO2e per passenger per km:
+*Transportation methods in CO2e per passenger per km:
+
 Small cars:
-small-diesel-car : 142g
-small-petrol-car : 154g
-small-plugin-hybrid-car : 73g
-small-electric-car : 50g
+
+1. small-diesel-car : 142g
+2. small-petrol-car : 154g
+3. small-plugin-hybrid-car : 73g
+4. small-electric-car : 50g
+
 Medium cars:
-medium-diesel-car : 171g
-medium-petrol-car : 192g
-medium-plugin-hybrid-car : 110g
-medium-electric-car : 58g
+
+5. medium-diesel-car : 171g
+6. medium-petrol-car : 192g
+7. medium-plugin-hybrid-car : 110g
+8. medium-electric-car : 58g
+
 Large cars:
-large-diesel-car : 209g
-large-petrol-car : 282g
-large-plugin-hybrid-car : 126g
-large-electric-car : 73g
-bus : 27g
-train : 6g
+
+9. large-diesel-car : 209g
+10. large-petrol-car : 282g
+11. large-plugin-hybrid-car : 126g
+12. large-electric-car : 73g
+
+13. bus : 27g
+
+14. train : 6g
